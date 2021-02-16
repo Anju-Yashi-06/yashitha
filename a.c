@@ -2,6 +2,7 @@
 #include<conio.h>
 void main()
 {
+printf("github ");
 printf("hello world");
 getch();
-}6
+}
